@@ -1,0 +1,16 @@
+﻿@charset "utf-8";
+
+.dianbg {background:url(../images/dianbg.gif) no-repeat; width: 235px; height: 23px; line-height: 23px; text-indent: 10px; color:#352f2f; font-weight: bold;}
+.dianleft { float: left; width: 34px;}
+.dianleft img { width: 24px; height: 24px }
+.dianmid { float: left; padding-right: 10px; color: #1D4594; line-height: 22px; }
+.dianright { float: left; width: 480px; line-height: 22px; }
+.diantextbox { padding: 20px; }
+.dianbox { padding-bottom: 10px; }
+.supercontent1 { border-top: 1px solid #E5E4E5; margin-top: 30px; padding-top: 20px; }
+.giftmid2 { float: left; width: 540px; padding-left: 0px; overflow: hidden; }
+.giftmid2 li { float: left; margin-left: 9px; margin-right: 7px; text-align: center; width: 145px; }
+.huiborder3 { border: 1px solid #DFDFDF; padding: 2px; }
+.huiborder3 img { width: 140px; height: 66px; }
+.supercontent { margin-top: 10px; padding-top: 15px; padding-left: 15px; padding-right: 15px; }
+.quote blockquote{margin:10px 20px 20px;color:#999;}
